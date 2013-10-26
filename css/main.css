@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+p { margin: 1em 0 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
@@ -128,6 +128,10 @@ ul.posts span {
 /*****************************************************************************/
 
 /* standard */
+
+.post {
+  margin: 1em 0 0;
+}
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -158,3 +162,20 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+.post p {
+  display: inline-block;
+  width: 100%;
+}
+/* images */
+img.thumb {
+  width: 120px;
+  height: auto;
+  float: left;
+  margin: 0 1em 0.3em 0;
+}
+img.thumb-r {
+  float: right;
+  margin: 0 0 0.3em 1em;
+}
+
