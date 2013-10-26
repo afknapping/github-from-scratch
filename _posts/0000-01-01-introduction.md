@@ -15,7 +15,7 @@ Github can be used to publish sites via [Github Pages](http://pages.github.com).
 
 While doing your first steps as outlined on the coming pages, you will build a personal history in your first repository (more on what a *repository* or "repo" very soon). And you do not even have to think about it. If you should decide to do more coding afterwards and want to learn how exactly Git works, you can check out your own repo and work with the already existing story of your very own commits.
 
-Just follow along the steps, click by click.
+Just follow along the steps, click by click and something should be overexplained (meaning you already know this) – all the better.
 
 ### If possible, find a pear
 
