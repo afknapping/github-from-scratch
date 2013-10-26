@@ -26,6 +26,10 @@ Just follow along the steps, click by click. If you don't understand anything.
 
 Github's tagline is "social coding" – and you cannot do that alone. In the material, there will be sections entitled "If you have a peer". Those are the parts that will show you what is so special about Github (and other online code collaboration tools, of course).
 
+If you follow this guide on your own and not in a workshop, you can always ask questions by opening an issue on Github
+
+Have fun!
+
 ## Set up
 
 ### Make a repository
