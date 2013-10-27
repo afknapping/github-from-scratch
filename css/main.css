@@ -20,20 +20,33 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%; 
+  font-weight: bold;
+  margin: 1.2em 0 1em 0;
+}
 
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0 0; }
+h1 {font-size: 200%;}
+h2 {font-size: 160%;}
+h3 {font-size: 130%;}
+
+p { margin: 0 0 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
+ul, ol {
+  margin: 0 0 1em 0;
+}
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
+.chapter {
+  margin-bottom: 0.5em;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -59,7 +72,7 @@ ul.posts span {
   font-size: 115%;
   text-align: justify;
   width: 42em;
-  margin: 3em auto 2em;
+  margin: 1em auto 2em;
   line-height: 1.5em;
 }
 
@@ -70,7 +83,6 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 2em;
 }
 
 .site .header h1.title a {

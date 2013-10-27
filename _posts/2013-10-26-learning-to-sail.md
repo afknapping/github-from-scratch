@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Part 1: Learning how to sail"
-categories:
+title:  "GitHub Repository"
+category: "Part 1: Learning how to sail"
+chapter: "one"
 ---
 
-
-
-### GitHub repository
 Let’s begin! You already have an account on GitHub, right? If not, please create one now on [https://github.com/signup/free](https://github.com/signup/free), setup your profile on [https://github.com/settings/profile](https://github.com/settings/profile) and come back here when you are done.
 
 [<img src="/assets/images/create-repo-1.jpg" class="thumb thumb-r">](/assets/images/create-repo-1.jpg)

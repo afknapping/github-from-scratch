@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "HTML - How does it work?"
+category: "Part 1: Learning how to sail"
+chapter: "one"
 ---
 
 The browser can do more than just print the text from the file. It speaks its own language, called "HTML" (HyperText Markup Language).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Github from Scratch"
-categories:
+chapter: "intro" 
 ---
 
 Imagine a certain brand of hammers (yes, the tool) becomes really popular for all the right reasons. Let's call the brand "Hammerhub". Now you want to know what is so special about Hammerhub and the hammers they make. To experience that, it doesn't help to read about materials, manufacturing processes or blueprints of Hammerhub or hammers in general. You have to use that hammer for sculpting – or at least rattling some nails into a wall.

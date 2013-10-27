@@ -4,10 +4,44 @@ title: Home
 ---
 
 <div id="home">
-  <h1>Contents</h1>
+  <h2>Welcome</h2>
+
+  <p>Small Intro: This is OpenTechSchool learning material etc...
+  </p>
+  <p>This course is intended for ....</p>
+  <p>What we will do today...  </p>
+
+  <h3 class="chapter">Intro</h3>
   <ul class="posts">
     {% for post in site.posts %}
-      <li> <!-- <span>{{ post.date | date_to_string }}</span> --> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    	{% if post.chapter == "intro" %}
+      	<li> <!-- <span>{{ post.date | date_to_string }}</span> --> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      	{% endif %}
     {% endfor %}
+  </ul>
+
+  <h3 class="chapter">Part 1: Learning how to sail</h3>
+  <ul class="posts">
+    {% for post in site.posts %}
+    	{% if post.chapter == "one" %}
+      	<li> <!-- <span>{{ post.date | date_to_string }}</span> --> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      	{% endif %}
+    {% endfor %}
+    <li>&raquo; use github page generator?, setup blog, write first post </li>
+    <li>&raquo; explain vocabulary: jekyll, markdown…</li>
+    <li>&raquo; use variables, post list</li>
+    <li>&raquo; ...?</li>
+  </ul>
+
+  <h3 class="chapter">Part 2: Sailing away</h3>
+  <ul class="posts">
+    {% for post in site.posts %}
+    	{% if post.chapter == "two" %}
+      	<li> <!-- <span>{{ post.date | date_to_string }}</span> --> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      	{% endif %}
+    {% endfor %}
+    <li>&raquo; challenge: social coding (pull requests, forking)</li>
+    <li>&raquo; challenge: using git locally</li>
+    <li>&raquo; ...?</li>
   </ul>
 </div>
