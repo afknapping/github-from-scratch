@@ -5,7 +5,7 @@ title:  "HTML - How does it work?"
 
 The browser can do more than just print the text from the file. It speaks its own language, called "HTML" (HyperText Markup Language).
 
-### Challange
+### Challenge
 
 Make "hello world" a headline. Add a paragraph with the text "To the kittens!!1"
 
@@ -29,15 +29,16 @@ You used so called *tags* to *mark up* the text, so the browser knows what you w
 
 You can imagine these tags being like uniforms: it is not so relevant who the person in the Police uniform is. It is more important that she is a Police Officer.
 
-For the browser it doesn't really matter what your headline says. It is more important that he knows you want it to be a headline.
+For the browser it doesn't really matter what your headline says. It is more important that it knows you want it to be a headline.
 
-Tags usually consist of an opening tag (`<p>`) and a closing tag (`</p>`) and consist for all kinds of things. Some examples:
+Tags usually consist of an opening tag (`<p>`) and a closing tag (`</p>`) and exist for all kinds of things. Some examples:
 
 - Structured headlines (`<h1>, <h2>,.., <h6>``)
 - bullet point lists (`<ul>`) with bullet point items (`<li>`)
 - blocks of code examples (`<code>`)
 - cited text (`<blockquote>`)
 - images (`<img>`)
+- links (`<a>`)
 
 ...and many, many more.
 
