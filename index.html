@@ -15,7 +15,7 @@ title: Home
   <ul class="posts">
     {% for post in site.posts %}
     	{% if post.chapter == "intro" %}
-      	<li> <!-- <span>{{ post.date | date_to_string }}</span> --> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      	<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       	{% endif %}
     {% endfor %}
   </ul>
@@ -24,7 +24,7 @@ title: Home
   <ul class="posts">
     {% for post in site.posts %}
     	{% if post.chapter == "one" %}
-      	<li> <!-- <span>{{ post.date | date_to_string }}</span> --> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      	<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       	{% endif %}
     {% endfor %}
     <li>&raquo; use github page generator?, setup blog, write first post </li>
@@ -37,11 +37,23 @@ title: Home
   <ul class="posts">
     {% for post in site.posts %}
     	{% if post.chapter == "two" %}
-      	<li> <!-- <span>{{ post.date | date_to_string }}</span> --> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      	<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       	{% endif %}
     {% endfor %}
     <li>&raquo; challenge: social coding (pull requests, forking)</li>
     <li>&raquo; challenge: using git locally</li>
     <li>&raquo; ...?</li>
+  </ul>
+
+  <h3 class="chapter">Part 3: Sharing the treasures</h3>
+  <p>After a day cruising the shores of unknown lands it's time to come home and share what you found.</p>
+
+  <h3 class="chapter">Part 4: Finding more Treasures</h3>
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% if post.chapter == "four" %}
+        <li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
   </ul>
 </div>
