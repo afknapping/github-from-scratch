@@ -9,4 +9,5 @@ To help you on your way through the deeps of the Github seas we collected some a
 
 * [GitHub Presentations](http://teach.github.com/presentations/): Learning material by GitHub, covering topics from basic to advanced level
 * [GitHub Pages](http://pages.github.com/): Documentation on GitHub Pages
-* [Jekyll Docs](http://jekyllrb.com/docs/home/): A comprehensive guide to Jekyll, with special Tips for use with GitHub Pages
+* [Jekyll Docs](http://jekyllrb.com/docs/home/): A comprehensive guide to Jekyll, with special tips for use with GitHub Pages
+* [Markdown Syntax](http://daringfireball.net/projects/markdown/syntax) ([German translation](http://markdown.de/syntax/))
