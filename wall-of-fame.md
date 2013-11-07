@@ -1,5 +1,6 @@
 ---
 layout: default
+name: wall-of-fame
 ---
 
 - ![filtercake](https://identicons.github.com/filtercake.png)
