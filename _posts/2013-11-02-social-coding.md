@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Challenge: Social Coding"
-category: "Part 2: Sailing away"
-chapter: "two"
+title:  "Social Coding"
 ---
 
+**(Needs some update as it's not coming *after* parts one and two, but before)**
 
 So, here you are, with your cool project code online, fully versioned and everything. Well, coding on your own can become boring after a while - but we are here to help! 
 
