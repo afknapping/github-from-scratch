@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Links for your next cruise"
-category: "Part 4: Finding more Treasures"
-chapter: "four"
+title:  "Find more treasures: Links for your next cruise"
 ---
 
 To help you on your way through the deeps of the Github seas we collected some articles and presentations four you to further deepen your knowledge.
