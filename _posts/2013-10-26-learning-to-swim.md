@@ -9,6 +9,7 @@ TODO: add skip-the-html-stuff link
 TODO: add screenshots
 
 
+**Note: If you know your way around HTML, you can go through this real quickly. If not, just read on...**
 
 The browser can do more than just print the text from the file. It speaks its own language, called "HTML" (HyperText Markup Language).
 
