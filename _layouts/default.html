@@ -14,7 +14,13 @@
         <link rel="stylesheet" href="/css/main.css" />
         <link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon" />
     </head>
-    <body>
+
+
+    <body
+      {% if page.name %}
+      class ="{{ page.name }}"
+      {% endif %}
+      >
 
       <div class="header">
         <a href="http://www.opentechschool.org">OpenTechSchool</a>
@@ -24,7 +30,13 @@
         <hr />
 
         <div class="aside">
+
+
+        </div>
+
+        <div class="aside">
           <a href="/">Home</a>
+
           <ul data-title="core">
             {% for post in site.posts %}
               {% if post.chapter == "one" %}
