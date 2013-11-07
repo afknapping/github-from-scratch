@@ -52,37 +52,10 @@
             </ul>
 
             <hr>
-            <a href="/">Wall of Fame</a>
+            <a href="/wall-of-fame.html">Wall of Fame</a>
             <a href="/">Feedback</a>
             <a href="/">Credits</a>
-
-
-
-          <hr>
-          <p>(former logic)</p>
-
-          <ul data-title="core">
-            {% for post in site.posts %}
-              {% if post.chapter == "one" %}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endif %}
-            {% endfor %}
-          </ul>
-          <ul data-title="challenges">
-            {% for post in site.posts %}
-              {% if post.chapter == "two" %}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endif %}
-            {% endfor %}
-          </ul>
-          <ul data-title="read on">
-            {% for post in site.posts %}
-              {% if post.chapter == "four" %}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endif %}
-            {% endfor %}
-          </ul>
-        </div>
+        </div><!-- aside -->
 
         <div class="main">
         {{ content }}
