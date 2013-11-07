@@ -46,6 +46,8 @@
 - put "menu" into layout, remove links from index and kittens  => (transfair)
 - add titles to index and kittens, add `{{ page.title }}` => page-wide data, transfair
 
+### You are awesome!
+
 
 ## Part 2: Sail away
 
