@@ -233,3 +233,11 @@ img.full {
   box-shadow:         5px 5px 19px rgba(50, 50, 50, 0.75);
 }
 
+
+.wall-of-fame .main img {
+  width: 3em;
+  margin: 0.3em;
+  /* TODO render alt tag */
+}
+
+
