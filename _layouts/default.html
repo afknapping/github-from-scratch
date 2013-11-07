@@ -31,6 +31,35 @@
 
         <div class="aside">
           <a href="/">Home</a>
+          <a href="/">Introduction</a>
+
+            <h2 class="aside--title">Part I: Learning to sail</h2>
+            <ul>
+              {% for post in site.posts %}
+                {% if post.chapter == "one" %}
+                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+
+            <h2 class="aside--title">Part II: Sail away!</h2>
+            <ul>
+              {% for post in site.posts %}
+                {% if post.chapter == "two" %}
+                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+
+            <hr>
+            <a href="/">Wall of Fame</a>
+            <a href="/">Feedback</a>
+            <a href="/">Credits</a>
+
+
+
+          <hr>
+          <p>(former logic)</p>
 
           <ul data-title="core">
             {% for post in site.posts %}
