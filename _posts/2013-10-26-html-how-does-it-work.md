@@ -5,6 +5,11 @@ category: "Part 1: Learning how to sail"
 chapter: "one"
 ---
 
+TODO: add skip-the-html-stuff link
+TODO: add screenshots
+
+
+
 The browser can do more than just print the text from the file. It speaks its own language, called "HTML" (HyperText Markup Language).
 
 ### Challenge
