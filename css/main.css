@@ -224,3 +224,12 @@ img.full {
   height: auto;
 }
 
+.post img {
+  width: 100%;
+  /* border: 1px solid #888; */
+  margin-bottom: 1em;
+  -webkit-box-shadow: 5px 5px 19px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    5px 5px 19px rgba(50, 50, 50, 0.75);
+  box-shadow:         5px 5px 19px rgba(50, 50, 50, 0.75);
+}
+
