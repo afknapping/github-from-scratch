@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HTML - How does it work?"
+title:  "Interlude: learning how to swim"
 category: "Part 1: Learning how to sail"
 chapter: "one"
 ---
