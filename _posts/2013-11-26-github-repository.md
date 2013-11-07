@@ -9,11 +9,11 @@ Let’s begin! You already have an account on GitHub, right? If not, please crea
 
 Your first task for today is to create a repository for our workshop. Create a repo by clicking on the green button labeled “New repository” on the bottom of the page. 
 
-![creating a repo](/assets/images/create-repo-1.png)
+![creating a repo]({{ site.baseurl }}/assets/images/create-repo-1.png)
 
 Name your repository “username.github.io”, where “username” is your own GitHub username. Check the box that says “Initialize this repository with a README” and continue. 
 
-![](/assets/images/create-repo-2.png)
+![]({{ site.baseurl }}/assets/images/create-repo-2.png)
 
 On the next page, ignore the text for now and click on the repo name. If you have done this before and are already familiar with GitHub, you may clone your repository.
 
@@ -22,11 +22,11 @@ Neat, isn’t it?
 
 Create a new file. Click on the plus icon next to your repository name. Create an index.html. 
 
-![](/assets/images/create-repo-3.png)
+![]({{ site.baseurl }}/assets/images/create-repo-3.png)
 
 Add a few words - a casual greeting usually works well. Save the file (“Commit new file”). There it is in your project list! Now click on index.html and edit the file. Add some more words and save.
 
-![](/assets/images/create-repo-5.png)
+![]({{ site.baseurl }}/assets/images/create-repo-5.png)
 
 Let’s take a look! Open a new tab in your browser and go to http://username.github.io. You replaced “username” with your GitHub username, right? Of course you did.
 And now you are viewing the contents of your index.html file! 
