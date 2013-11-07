@@ -15,7 +15,7 @@ title: Home
   <ul class="posts">
     {% for post in site.posts %}
     	{% if post.chapter == "intro" %}
-      	<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
       	{% endif %}
     {% endfor %}
   </ul>
@@ -24,7 +24,7 @@ title: Home
   <ul class="posts">
     {% for post in site.posts %}
     	{% if post.chapter == "one" %}
-      	<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
       	{% endif %}
     {% endfor %}
     <li>&raquo; use github page generator?, setup blog, write first post </li>
@@ -39,7 +39,7 @@ title: Home
   <ul class="posts">
     {% for post in site.posts %}
     	{% if post.chapter == "two" %}
-      	<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
       	{% endif %}
     {% endfor %}
     <li>&raquo; challenge: using git locally with GUI Tools</li>
@@ -55,7 +55,7 @@ title: Home
   <ul class="posts">
     {% for post in site.posts %}
       {% if post.chapter == "four" %}
-        <li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
     {% endfor %}
   </ul>

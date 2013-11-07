@@ -8,7 +8,8 @@
         
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css' />
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css" />
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css" />
+
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css" />
@@ -38,7 +39,7 @@
             <ul>
               {% for post in site.posts %}
                 {% if post.chapter == "one" %}
-                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
                 {% endif %}
               {% endfor %}
             </ul>
@@ -47,7 +48,7 @@
             <ul>
               {% for post in site.posts %}
                 {% if post.chapter == "two" %}
-                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
                 {% endif %}
               {% endfor %}
             </ul>

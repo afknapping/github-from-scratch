@@ -2,4 +2,4 @@ name:        Github from Scratch
 markdown:    redcarpet
 pygments:    true
 permalink:   :title
-baseurl:     /
+baseurl:     /github-from-scratch
