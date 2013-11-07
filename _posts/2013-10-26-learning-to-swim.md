@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Interlude: learning how to swim"
-category: "Part 1: Learning how to sail"
+title:  "Interlude: learning how to swim – HTML"
 chapter: "one"
 ---
 
