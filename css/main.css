@@ -156,6 +156,15 @@ h1.title {
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
 }
 
+.aside--title {
+  color: #999;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+
 .main {
   display: inline-block;
   width: 70%;
