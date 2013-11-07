@@ -1,4 +1,5 @@
-name: Github from Scratch
-markdown: redcarpet
-pygments: true
-permalink: :title
+name:        Github from Scratch
+markdown:    redcarpet
+pygments:    true
+permalink:   :title
+baseurl:     /
