@@ -34,3 +34,5 @@ And now you are viewing the contents of your index.html file!
 **Congratulations, you have your own GitHub page!**
 
 At this point we should mention that everything you do on GitHub right now is public. You can have private repositories if you pay for it, but even then, GitHub pages are accessible to everyone who knows the URL.
+
+Keep that site open in another tab. That way you can editthe file in one tab and can refresh in the other.
