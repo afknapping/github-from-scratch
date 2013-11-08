@@ -4,7 +4,6 @@ title:  "Interlude: learning how to swim – HTML"
 chapter: "one"
 ---
 
-TODO: add skip-the-html-stuff link
 TODO: add screenshots
 
 
@@ -32,7 +31,7 @@ Make "hello world" a headline. Add a paragraph with the text "To the kittens!!1"
 
 ### What did you do?
 
-You used so called *tags* to *mark up* the text, so the browser knows what you want it to be.
+You used so called *tags* to *mark up* the text, so the browser knows what you want it to be. the ´<p>´ tag signals to the browser, that this is a normal *paragraph* of text, an `<h1>` is a *Headline*.
 
 You can imagine these tags being like uniforms: it is not so relevant who the person in the Police uniform is. It is more important that she is a Police Officer.
 
@@ -47,7 +46,7 @@ Tags usually consist of an opening tag (`<p>`) and a closing tag (`</p>`) and ex
 - images (`<img>`)
 - links (`<a>`)
 
-...and many, many more.
+...and there are many, many more.
 
 
 
