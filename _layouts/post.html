@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-{% if page.category != nil %}
-<h2>{{ page.category }}</h2>
+{% if page.chapter != nil %}
+	{% if page.chapter == "one" %}
+		<h2>Part 1: Learning how to sail</h2>
+	{% else if page.chapter == "two" %}
+		<h2>Part 2: Sail away!</h2>
+	{% endif %}
 {% endif %}
 <h3>{{ page.title }}</h3>
 <!-- <p class="meta">{{ page.date | date_to_string }}</p> -->

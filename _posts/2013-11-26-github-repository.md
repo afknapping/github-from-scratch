@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "GitHub Repository"
-category: "Part 1: Learning how to sail"
 chapter: "one"
 ---
 

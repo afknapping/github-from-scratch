@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "using a layout"
+title:  "Using a Layout"
 chapter: "one"
 ---
 
