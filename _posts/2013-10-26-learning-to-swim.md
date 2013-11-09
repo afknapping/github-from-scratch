@@ -22,13 +22,13 @@ The browser can do more than just print a text from a file. It speaks its own la
 - change `hello world` to `<h1>hello world</h1>`
 - add a new line with the content: `<p>To the kittens!!1!</p>`
 
-(screenshot)
+![]({{ site.baseurl }}/assets/images/html-1.png)
 
 Save the file, then open the browser tab with your yourusername.github.io page and refresh it. 
 
 #### What it should look like
 
-(screenshot)
+![]({{ site.baseurl }}/assets/images/html-2.png)
 
 #### What did you do?
 
@@ -49,7 +49,7 @@ Tags usually consist of an opening tag (`<p>`) and a closing tag (`</p>`) and ex
 
 ...and there are many, many more. If you are interested in learning more about HTML, we later have a special task for you. For now these few examples should be enough to keep you going. 
 
-But wait - there is one tag we should look at now, as it is one of the foundation blocks of the internet! <a href="{{ site.baseurl }}/second-page/">Read about it on the next page</a>.
+But wait - there are two tags we should look at right now, as they are two of the foundation blocks of the internet! <a href="{{ site.baseurl }}/second-page/">Read about them on the next page</a>.
 
 
 
