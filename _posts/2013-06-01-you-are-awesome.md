@@ -6,8 +6,10 @@ chapter: "one"
 
 ## YOU MADE IT!
 
+<iframe src="http://giphy.com/embed/MOWPkhRAUbR7i" width="500" height="226" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 Awesome. And that wasn't too hard, was it?
 
 Now you are ready to sail away and explore the seven seas of crafting web by hand.
 
-Now is also the time to take a look beneath the surface and see what Github and Git did while we were budy building the site.
+Now is also the time to take a look beneath the surface and see what GitHub and Git did while we were busy building the site.
