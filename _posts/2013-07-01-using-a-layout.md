@@ -8,7 +8,7 @@ We're nearly done to leave the port. One more thing.
 
 <div class="challenge">
 	<p><strong>Challenge</strong><br />
-	Use a *layout* which has a menu with links to both of your pages. Use that layout on both pages.</p>
+	Use a <em>layout</em> which has a menu with links to both of your pages. Use that layout on both pages.</p>
 </div>
 
 #### How to do it

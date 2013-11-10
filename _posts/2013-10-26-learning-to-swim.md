@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interlude: learning how to swim: HTML"
+title:  "Learning how to swim: HTML"
 chapter: "one"
 ---
 
