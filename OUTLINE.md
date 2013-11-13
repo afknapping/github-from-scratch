@@ -51,6 +51,7 @@
 
 ## Part 2: Sail away
 
+### Social Coding (forking/pull requests)
 ### Local Development: Github Gui Tool and Code editor
 ### HTML
 ### CSS
@@ -58,5 +59,8 @@
 ### Yaml & Liquid => make a blog
 ### Git
 
-## Appendix: Fork yourself into the Wall of Fame
-
+## Appendix: 
+### Fork yourself into the Wall of Fame
+### Find more treasures (more links with interesting stuff)
+### Feedback (?)
+### Credits (?)
