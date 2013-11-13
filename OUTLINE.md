@@ -52,7 +52,7 @@
 ## Part 2: Sail away
 
 ### Social Coding (forking/pull requests)
-### Local Development: Github Gui Tool and Code editor
+### Local Development: Github Gui Tool and Code editor / pull requests
 ### HTML
 ### CSS
 ### Markdown
