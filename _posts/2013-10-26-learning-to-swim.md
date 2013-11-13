@@ -11,10 +11,8 @@ If you know your way around HTML, you can go through this real quickly. If not, 
 
 The browser can do more than just print a text from a file. It speaks its own language, called "HTML" (HyperText Markup Language). With HTML you can give the browser hints about the meaning of the different parts of your document. For example you can mark some text as a headline, a list or even a quote. 
 
-<div class="challenge">
-	<p><strong>Challenge</strong><br />
-	Make "hello world" a headline in your index.html. Then add a paragraph with the text "To the kittens!!1".</p>
-</div>
+#### Challenge
+Make "hello world" a headline in your index.html. Then add a paragraph with the text "To the kittens!!1".
 
 #### How to do it
 

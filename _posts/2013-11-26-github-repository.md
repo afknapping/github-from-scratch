@@ -6,6 +6,10 @@ chapter: "one"
 
 Let’s begin! You already have an account on GitHub, right? If not, please create one now on [https://github.com/signup/free](https://github.com/signup/free), setup your profile on [https://github.com/settings/profile](https://github.com/settings/profile) and come back here when you are done.
 
+#### Challenge
+Create a GitHub repository for your GitHub page and add files to it.
+
+#### How to do it
 Your first task for today is to create a repository for our workshop. That repository, or "repo" in short, is a place on your GitHub account where you can store and edit files for a project.
 Create a repo by clicking on the green button labeled “New repository” on the bottom of the page. 
 

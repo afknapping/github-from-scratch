@@ -23,6 +23,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {font-size: 38px;}
 h2 {font-size: 24px;}
 h3 {font-size: 20px;}
+h4 {font-size: 20px;}
+h5 {font-size: 18px;margin-bottom: 0.5em;}
 
 p { margin: 0 0 1em 0; padding:0;}
 
@@ -173,6 +175,18 @@ h1.title {
 .post {
   margin: 1em 0 0;
 }
+
+.post h4:first-of-type { /* use for challenge */
+  font-size: 20px; 
+  border-top: 1px solid #E3E3E3;
+  padding: 10px 0 0;
+  margin: 1em 0 0.2em 0;
+}
+.post h4:first-of-type + p {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #E3E3E3;
+}
+
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -198,11 +212,6 @@ h1.title {
   width: 100%;
 }
 
-.challenge {
-  padding: 10px 0 0 0;
-  border: 1px solid #E3E3E3;
-  border-width: 1px 0;
-}
 
 /* terminal */
 .post pre.terminal {

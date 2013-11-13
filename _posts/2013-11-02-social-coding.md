@@ -8,7 +8,7 @@ chapter: "two"
 
 So, here you are, with your cool project code online, fully versioned and everything. Well, coding on your own can become boring after a while - but we are here to help! 
 
-#### Challenge: Collaborate
+#### Challenge
 Find a peer, fork her repository and add changes by submitting a pull request!
 
 

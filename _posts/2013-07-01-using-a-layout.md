@@ -6,10 +6,8 @@ chapter: "one"
 
 We're nearly done to leave the port. One more thing.
 
-<div class="challenge">
-	<p><strong>Challenge</strong><br />
-	Use a <em>layout</em> which has a menu with links to both of your pages. Use that layout on both pages.</p>
-</div>
+#### Challenge
+Use a <em>layout</em> which has a menu with links to both of your pages. Use that layout on both pages.
 
 #### How to do it
 

@@ -6,11 +6,8 @@ chapter: "one"
 
 Having a page is nice, but having more pages is more nice. So lets add another one.
 
-<div class="challenge">
-	<p><strong>Challenge</strong><br />
-	Make a new page kittens.html and put a paragraph with "hello kittens" on it. Then add an image with a kitten. Finally, add a link from index.html to your new kittens.html and vice versa.</p>
-</div>
-
+#### Challenge
+Make a new page kittens.html and put a paragraph with "hello kittens" on it. Then add an image with a kitten. Finally, add a link from index.html to your new kittens.html and vice versa.
 
 #### How to do it
 
