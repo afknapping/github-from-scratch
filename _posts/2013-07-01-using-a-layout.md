@@ -59,8 +59,3 @@ In your layout you now use a `site.title` which is read from the config file and
 
 The "{&#8203;{ content }}" is a very special variable and is a bit harder to understand. You tell a page to use layout in the front matter. But the layout mus also know where to render the *content* of the page. The two work together hand in hand. Delete "{&#8203;{ content }}" from your layout file and see what happens!
 
-And with this...
-
-
-
-

@@ -4,8 +4,6 @@ title:  "A journal that makes sense"
 chapter: "one"
 ---
 
-TODO: screenshots, challenge
-
 Remember when we said a repository is like a folder with a journal? Well, unitl now you didn't really write in that journal yourself. Github did that for you. That's the reason why your commit messages all look kind of the same:
 
     create index
@@ -54,3 +52,6 @@ So from now on, when you edit your files you will add a helpful commit message. 
     change colors of headlines for better radability
     add image of barky to index because dogs are cute too
 
+That's much better, don't you think?
+
+And with this...
