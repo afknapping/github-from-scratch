@@ -57,5 +57,5 @@ Remember the data we put into the config file? Turns out each page can have its 
 
 In your layout you now use a `site.title` which is read from the config file and a `page.title` which comes from the front matter in your pages. In case you are wondering: `<hr />` is a HTML Tag for printing out a simple horizontal line, or *horizontal rule*. 
 
-The "{&#8203;{ content }}" is a very special variable and is a bit harder to understand. You tell a page to use layout in the front matter. But the layout mus also know where to render the *content* of the page. The two work together hand in hand. Delete "{&#8203;{ content }}" from your layout file and see what happens!
+The `{% raw %}{{ content }}{% endraw %}` is a very special variable and is a bit harder to understand. You tell a page to use layout in the front matter. But the layout mus also know where to render the *content* of the page. The two work together hand in hand. Delete `{% raw %}{{ content }}{% endraw %}` from your layout file and see what happens!
 
