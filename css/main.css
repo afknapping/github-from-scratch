@@ -215,13 +215,13 @@ h1.title {
 
 blockquote {
   display: inline-block;
+  margin: 1em 40px;
   position: relative;
   font-family: times, serif;
   font-size: 1.3em;
   font-style: italic;
   quotes: "“" "”";
 }
-
 blockquote:before {
   content: open-quote;
   position: absolute;
@@ -235,6 +235,15 @@ blockquote:after {
   right: -0.5em;
   font-size: 4em;
   bottom: -0.1em
+}
+blockquote + p {
+  position: relative;
+  top: -1.8em;
+  font-size: 0.8em;
+  text-indent: 2em;
+}
+blockquote + p:before {
+  content: "- ";
 }
 
 /* terminal */
