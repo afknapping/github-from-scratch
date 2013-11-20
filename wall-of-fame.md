@@ -8,5 +8,5 @@ So you made it through Github from Scratch? You are awesome! And you deserve you
 Look at the code of this page, fork, add yourself and send a pull request.
 
 [![filtercake](https://identicons.github.com/filtercake.png)](http://filtercake.github.io)
-[![fallera](https://identicons.github.com/fallera.png)](http://fallera.github.com)
-[![salzig](https://identicons.github.com/salzig.png)](http://salzig.github.com)
+[![fallera](https://identicons.github.com/fallera.png)](http://fallera.github.io)
+[![salzig](https://identicons.github.com/salzig.png)](http://salzig.github.io)
