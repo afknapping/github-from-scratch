@@ -25,6 +25,7 @@ Before we take a look the second way of collaboration on GitHub (which is much s
 To find someone to share your code with, take a look around you. See that person looking around, just like you? Approach them in a non-threatening way (smiling may help) and ask nicely.
 
 ##### Now get ready to fork. 
+
 Forking is GitHubs name for making an exact copy of someones repository and putting it into your account. That way you can make any changes you want, it is your code now (aside from copyright of course). The original owner will get a notice about your fork, and when viewing the copied repo in your account, it will show as "forked from" them, so everyone knows who invented that crazy code originally.
 
 So, go ahead and fork your coding buddy's repository. Don't be shy.
@@ -32,7 +33,8 @@ So, go ahead and fork your coding buddy's repository. Don't be shy.
 ![]({{ site.baseurl }}/assets/images/social-1.png)
 
 ##### Make changes 
-You can change files, fix spelling mistakes, add a joke to their homepage or whatever you find appropriate.
+
+You can change files, fix spelling mistakes, add a joke to their homepage or whatever you find appropriate. Maybe add another cat image?
 
 You surely have noticed that this isn't really collaboration yet, because when you start making changes the original repository will not be affected. To truly contribute to your partner's project there is more to do.
 
