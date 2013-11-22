@@ -4,8 +4,6 @@ title:  "Social Coding"
 chapter: "two"
 ---
 
-**TODO: Screenshot**
-
 So, here you are, with your cool project code online, fully versioned and everything. Well, coding on your own can become boring after a while - but we are here to help! 
 
 #### Challenge
@@ -41,6 +39,8 @@ A pull request is basically GitHubs way of saying "Hi, I made changes and I thin
 
 On the project page in your account, among the icons on the right side there is a button for pull requests. Click it and then the green button saying "New pull request". You will see a comparison of the files you changed, to rewiew and make sure you will only submit the stuff you want to.
 
+![]({{ site.baseurl }}/assets/images/social-2.png)
+
 After you click on the area that says "Click to create a pull request for this comparison" you should describe your changes and ask the repository owner to kindly accept your changes into their code. If you feel especially bold, you can add the image of a cat into your message, using markdown syntax ([github flavored](https://help.github.com/articles/github-flavored-markdown)). Try adding this as a comment:
 
 `![A cute cat!](http://placekitten.com/g/200/120)` 
@@ -48,7 +48,8 @@ After you click on the area that says "Click to create a pull request for this c
 ##### Accept a pull request
 If you are the one receiving a pull request, you will be noticed by GitHub. You can review the changes, read the request comment and go all awwwwww on cute cat images. After that, don't forget to merge the changes into your repository.
 
-![]({{ site.baseurl }}/assets/images/social-1.png)
+![]({{ site.baseurl }}/assets/images/social-3.png)
+![]({{ site.baseurl }}/assets/images/social-4.png)
 
 Now you are ready to dive into the social part of GitHub. Go on and find more people to fork from and collaborate. Be social!
 
