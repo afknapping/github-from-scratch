@@ -8,3 +8,18 @@ chapter: "two"
 
 - more on liquid
 - more on yaml
+
+
+
+---
+
+## markdown stuff
+
+- why
+- what
+- df markdown
+- github readme
+- tumblr
+- ghost
+- mou
+- sublime text markdown plugin
