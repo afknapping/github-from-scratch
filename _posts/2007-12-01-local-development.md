@@ -4,8 +4,6 @@ title:  "Local Development"
 chapter: "two"
 ---
 
-# TODO: add screenshots, make a branch. add challenge/link to next step, wall of fame.
-
 If you have written code before, you might have done it in a text editor on your own machine instead of online. To do so, we need to download our repository and synchronize local changes to GitHub.
 
 #### Challenge
