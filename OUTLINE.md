@@ -11,7 +11,7 @@
 
 ## Part 1: Learn to sail
 
-### Github repo
+### GitHub repo
 - repo => version control commit history ("folder with a journal")
 - make `index.html` => files, documents
 - put "hello world" inside => text
@@ -52,7 +52,7 @@
 ## Part 2: Sail away
 
 ### Social Coding (forking/pull requests)
-### Local Development: Github Gui Tool and Code editor / pull requests
+### Local Development: GitHub Gui Tool and Code editor / pull requests
 ### HTML
 ### CSS
 ### Markdown

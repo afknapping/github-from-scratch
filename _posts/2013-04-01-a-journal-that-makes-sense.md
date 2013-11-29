@@ -4,7 +4,7 @@ title:  "A journal that makes sense"
 chapter: "one"
 ---
 
-Remember when we said a repository is like a folder with a journal? Well, unitl now you didn't really write in that journal yourself. Github did that for you. That's the reason why your commit messages all look kind of the same:
+Remember when we said a repository is like a folder with a journal? Well, unitl now you didn't really write in that journal yourself. GitHub did that for you. That's the reason why your commit messages all look kind of the same:
 
     create index
     update index
