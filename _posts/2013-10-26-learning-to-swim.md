@@ -27,7 +27,7 @@ Save the file, then open the browser tab with your yourusername.github.io page a
 
 #### What did you do?
 
-You used so called *tags* to *mark up* the text, so the browser knows what you want it to be. The `<p>` tag signals to the browser, that this is a normal *paragraph* of text, an `<h1>` is a *Headline*.
+You used so called *tags* to *mark up* the text, so the browser knows what you want it to be. The `<p>` tag signals to the browser, that this is a normal *paragraph* of text, an `<h1>` is a *headline*.
 
 You can imagine these tags as being like uniforms: it is not so relevant who the person in the Police uniform is. It is more important that she is a Police Officer.
 

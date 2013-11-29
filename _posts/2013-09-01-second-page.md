@@ -7,14 +7,14 @@ chapter: "one"
 Having a page is nice, but having more pages is more nice. So lets add another one.
 
 #### Challenge
-Make a new page kittens.html and put a paragraph with "hello kittens" on it. Then add an image with a kitten. Finally, add a link from index.html to your new kittens.html and vice versa.
+Make a new page `kittens.html` and put a paragraph with "hello kittens" on it. Then add an image with a kitten. Finally, add a link from index.html to your new kittens.html and vice versa.
 
 #### How to do it
 
 The first part should be well-known to you from the last lesson:
 
 Start with adding a new file called `kittens.html`.
-Remember the "paragraph" tag from last lesson? Make one and write "hello kittens" inside.
+Remember the "paragraph" tag? Make one and write "hello kittens" inside.
 
 ![]({{ site.baseurl }}/assets/images/html-3.png)
 
@@ -22,12 +22,12 @@ Now we will add our first image! For images we can use the `img` tag:
 
 `<img />`
 
-As you can see, this one consists of only one tag, unlike the paragraph or headline tags we used before. 
+As you can see, this one consists of only one tag, unlike the paragraph or headline tags we used before.
 Place this image tag below the paragraph.
 
 ![]({{ site.baseurl }}/assets/images/html-4.png)
 
-The browser now knows that you want to have an image displayed at this position. But of course it doesn't know yet *what* image you want to see there. We have give the browser some details.
+The browser now knows that you want to have an image displayed at this position. But of course it doesn't know yet *what* image you want to see there. We have to give the browser some details.
 
 We do that by adding an *attribute*: the *source* of the file to display, or in short, `src`.
 
@@ -51,6 +51,6 @@ Lastly, we want to be able to go back to the index from our kittens page, so let
 
 #### What did you do?
 
-You used *Links* (originally "Hyperlinks", but it's not 1987 anymore) to connect documents.
+You used *links* (originally "hyperlinks", but it's not 1987 anymore) to connect documents.
 
 If you want, you can think of links as *portals*, which can take you to *any* other place. It can be another site on the web, it can be another position in the same document.

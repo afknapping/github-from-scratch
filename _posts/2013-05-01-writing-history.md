@@ -43,4 +43,4 @@ Click on it and you can leave a comment:
 
 ![]({{ site.baseurl }}/assets/images/history-6.png)
 
-If you have a peer, go to his repository and leave a comment in her code. Say something nice. Whenever someone comments on your history, you will be notified by GitHub per email. 
+If you have a peer, go to his repository and leave a comment in his code. Say something nice. Whenever someone comments on your history, you will be notified by GitHub per email. 

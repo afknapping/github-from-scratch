@@ -43,7 +43,7 @@ Let's make a second post `2013-11-30-my-second-post.md` with this inside:
     ---
     hello kittens
 
-Only one thing left missing. We want to have a list of all our blogposts on pur index, right? Put this into your `index.html`:
+Only one thing left missing. We want to have a list of all our blogposts on our index, right? Put this into your `index.html`:
     
     <ul>
         {% raw %}{% for post in site.posts %}

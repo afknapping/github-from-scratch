@@ -18,7 +18,7 @@ Just follow along the steps, click by click and if something should be overexpla
 
 ### If possible, find a peer
 
-It's called "social coding" – and you cannot do that alone. In the material, there will be sections entitled "If you have a peer". Those are the parts that will show you what is so special about GitHub (and other online code collaboration tools, of course). On the next page, you will learn more about that.
+It's called "social coding" – and you cannot do that alone. In the material, there will be sections entitled "If you have a peer". Those are the parts that will show you what is so special about GitHub (and other online code collaboration tools, of course).
 
 If you follow this guide on your own and not in a workshop, you can always ask questions by opening an issue on GitHub.
 

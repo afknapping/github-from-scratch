@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Find more treasures: Links for your next cruise"
+title:  "Find more treasures: links for your next cruise"
 chapter: "four"
 ---
 
