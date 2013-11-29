@@ -4,9 +4,6 @@ title:  "Learning how to swim: HTML"
 chapter: "one"
 ---
 
-TODO: add screenshots
-
-
 If you know your way around HTML, you can go through this real quickly. If not, just read on...
 
 The browser can do more than just print a text from a file. It speaks its own language, called "HTML" (HyperText Markup Language). With HTML you can give the browser hints about the meaning of the different parts of your document. For example you can mark some text as a headline, a list or even a quote. 
