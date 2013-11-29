@@ -258,21 +258,6 @@ blockquote + p:before {
 }
 
 /* images */
-img.thumb {
-  width: 120px;
-  height: auto;
-  float: left;
-  margin: 0 1em 0.3em 0;
-}
-img.thumb-r {
-  float: right;
-  margin: 0 0 0.3em 1em;
-}
-img.full {
-  width: 100%;
-  height: auto;
-}
-
 .post img {
   width: 100%;
   /* border: 1px solid #888; */
@@ -281,7 +266,9 @@ img.full {
   -moz-box-shadow:    5px 5px 19px rgba(50, 50, 50, 0.75);
   box-shadow:         5px 5px 19px rgba(50, 50, 50, 0.75);
 }
-
+.post img[title=flowchart] {
+  width: auto;
+}
 
 .wall-of-fame .main img {
   width: 3em;
