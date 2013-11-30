@@ -47,7 +47,7 @@ Only one thing left missing. We want to have a list of all our blogposts on our 
     
     <ul>
         {% raw %}{% for post in site.posts %}
-            <li><a href="\{{ post.url }}">{{ post.title }}</a></li>
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}{% endraw %}
     </ul>
 
