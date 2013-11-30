@@ -51,7 +51,7 @@ If you are the one receiving a pull request, you will be noticed by GitHub. You 
 ![]({{ site.baseurl }}/assets/images/social-3.png)
 ![]({{ site.baseurl }}/assets/images/social-4.png)
 
-Now you are ready to dive into the social part of GitHub. Go on and find more people to fork from and collaborate. Be social!
+Now you are ready to dive into the social part of GitHub. Go on and find more people to fork from and collaborate. Be social! When you feel comfortable with forking take a step to the <a href="wall-of-fame.html">Wall of Fame</a>.
 
 ---
 By the way, this chapter is a very very condensed version of the OpenTechSchool course "Social Coding with GitHub". Yes, one can spend a whole day just with fun things like these... but for now please stay with us, ok? We'll link to that course on the "Find more treasures" page.

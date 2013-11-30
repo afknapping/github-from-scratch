@@ -43,11 +43,11 @@ Let's make a second post `2013-11-30-my-second-post.md` with this inside:
     ---
     hello kittens
 
-Only one thing left missing. We want to have a list of all our blogposts on pur index, right? Put this into your `index.html`:
+Only one thing left missing. We want to have a list of all our blogposts on our index, right? Put this into your `index.html`:
     
     <ul>
         {% raw %}{% for post in site.posts %}
-            <li><a href="\{{ post.url }}">{{ post.title }}</a></li>
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}{% endraw %}
     </ul>
 
@@ -67,7 +67,10 @@ Markdown provides you with a small subset of HTML-Tags – without having to wri
 
     ## A sub headline
 
-    this is a paragraph. Here is an image: ![more kittens](http://placekitten.com/g/200/200). [This is a link](http://www.nyan.cat/).
+    this is a paragraph. 
+    Here is an image: 
+    ![more kittens](http://placekitten.com/g/200/200). 
+    [This is a link](http://www.nyan.cat/).
 
     - and this
     - is a
@@ -78,8 +81,10 @@ will become
     <h2>A sub headline</h2>
 
     <p>
-    this is a paragraph. Here is an image: 
-    <img src="http://placekitten.com/g/200/200" alt="more kittens">. <a href="http://www.nyan.cat/">This is a link</a>.
+    this is a paragraph. 
+    Here is an image: 
+    <img src="http://placekitten.com/g/200/200" alt="more kittens">. 
+    <a href="http://www.nyan.cat/">This is a link</a>.
     </p>
 
     <ul>

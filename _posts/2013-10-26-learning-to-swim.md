@@ -4,9 +4,6 @@ title:  "Learning how to swim: HTML"
 chapter: "one"
 ---
 
-TODO: add screenshots
-
-
 If you know your way around HTML, you can go through this real quickly. If not, just read on...
 
 The browser can do more than just print a text from a file. It speaks its own language, called "HTML" (HyperText Markup Language). With HTML you can give the browser hints about the meaning of the different parts of your document. For example you can mark some text as a headline, a list or even a quote. 
@@ -30,7 +27,7 @@ Save the file, then open the browser tab with your yourusername.github.io page a
 
 #### What did you do?
 
-You used so called *tags* to *mark up* the text, so the browser knows what you want it to be. The `<p>` tag signals to the browser, that this is a normal *paragraph* of text, an `<h1>` is a *Headline*.
+You used so called *tags* to *mark up* the text, so the browser knows what you want it to be. The `<p>` tag signals to the browser, that this is a normal *paragraph* of text, an `<h1>` is a *headline*.
 
 You can imagine these tags as being like uniforms: it is not so relevant who the person in the Police uniform is. It is more important that she is a Police Officer.
 

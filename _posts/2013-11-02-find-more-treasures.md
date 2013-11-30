@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Find more treasures: Links for your next cruise"
+title:  "Find more treasures: links for your next cruise"
 chapter: "four"
 ---
 
-To help you on your way through the deeps of the Github seas we collected some articles and presentations four you to further deepen your knowledge.
+To help you on your way through the deeps of the GitHub seas we collected some articles and presentations four you to further deepen your knowledge.
 
 
 ##### GitHub & GitHub Pages

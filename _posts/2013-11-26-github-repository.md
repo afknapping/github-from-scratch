@@ -40,3 +40,8 @@ And now you are viewing the contents of your index.html file!
 At this point we should mention that everything you do on GitHub right now is public. You can have private repositories if you pay for it, but even then GitHub pages are accessible to everyone who knows the URL.
 
 Keep that site open in another browser tab. That way you can edit the file in one tab and refresh the page in the other.
+
+### Wait - can I have only one repository in my GitHub account?
+You might wonder how one could have more than one project on GitHub, when you can have only one repository that is called "yourusername.github.io". Well, this first project repository you just created is of a special kind. Only this repository will be available at your own github.io subdomain. 
+
+You can have more repositories of course - name them however you want - but to create a GitHub Page for them works differently then. As this is not (yet) part of this written course material, please ask your coaches if you want to explore more.

@@ -1,4 +1,4 @@
-# Github from Scratch
+# GitHub from Scratch
 
     $ bundle install
     $ jekyll serve -w --baseurl ''
