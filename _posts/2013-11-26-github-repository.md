@@ -15,7 +15,7 @@ Create a repo by clicking on the green button labeled “New repository” on th
 
 ![creating a repo]({{ site.baseurl }}/assets/images/create-repo-1.png)
 
-Name your repository “username.github.io”, where “username” is your own GitHub username. Check the box that says “Initialize this repository with a README” and continue. 
+Name your repository “*username*.github.io”, where “*username*” is your own GitHub *username*. Check the box that says “Initialize this repository with a README” and continue. *It's important that you really use your username, otherwise github wont let you use “username.github.io”*
 
 ![]({{ site.baseurl }}/assets/images/create-repo-2.png)
 
